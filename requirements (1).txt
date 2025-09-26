@@ -1,0 +1,5 @@
+streamlit
+web3
+eth-account
+py-solc-x
+solcx
